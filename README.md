@@ -1,5 +1,8 @@
 
----
+# 🚀 ML Practice Repository
+
+Hi, I’m a Data Science & Machine Learning student, and this repository is where I document my daily learning and hands-on practice.
+
 
 ## 🧠 Topics Covered
 - Data Cleaning
@@ -31,8 +34,7 @@ To become a skilled **Data Scientist / ML Engineer** by building strong fundamen
 ---
 
 ## 🔗 Connect with Me
-- LinkedIn: (Add your link here)
-- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: (www.linkedin.com/in/mrinmoy-talukdar-5867ab3b9)
 
 ---
 
