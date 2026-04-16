@@ -32,7 +32,6 @@ I regularly update this repository with new concepts and implementations.
 To become a skilled **Data Scientist / ML Engineer** by building strong fundamentals and practical experience.
 
 ---
-
 ## 🔗 Connect with Me
 - LinkedIn: (www.linkedin.com/in/mrinmoy-talukdar-5867ab3b9)
 
